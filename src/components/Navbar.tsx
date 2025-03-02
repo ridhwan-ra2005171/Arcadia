@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Leaf, Menu, X } from 'lucide-react';
+import { Leaf,TreePine , Menu, X } from 'lucide-react';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -22,9 +22,9 @@ const Navbar = () => {
     <nav className={`fixed w-full z-50 transition-all duration-300 ${isOpen || scrolled ? 'bg-white shadow-md py-2' : 'bg-transparent py-4'}`}>
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex justify-between items-center">
-          <a href="#" className="flex items-center space-x-2 text-green-700">
-            <Leaf className="h-8 w-8" />
-            <span className="text-xl font-bold">Arcadia</span>
+          <a href="#" className={`flex items-center space-x-2 ${isOpen || scrolled ? 'text-green-700' : 'text-green-500'}`}>
+            <TreePine className="h-8 w-8" />
+            <span className="text-xl font-bold">Arcadia </span>
           </a>
 
           {/* Desktop Navigation */}

@@ -5,7 +5,7 @@ const testimonials = [
     quote: "Arcadia transformed our backyard into a stunning retreat. Their attention to detail and creative vision exceeded our expectations.",
     author: "Sarah Johnson",
     role: "Homeowner",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80"
+    image: "https://images.squarespace-cdn.com/content/v1/5ef2087220c7256a8632676b/1641953034817-MM1BTZ7DRMN1BLPXBDEL/sarah-johnson.jpg"
   },
   {
     quote: "Working with the Arcadia team was a pleasure from start to finish. They listened to our needs and delivered a beautiful, functional outdoor space.",
