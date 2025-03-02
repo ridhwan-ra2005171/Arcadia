@@ -45,7 +45,7 @@ const About = () => {
             className="opacity-0 transform translate-x-8"
           >
             <img
-              src="https://images.unsplash.com/photo-1605117882932-f9e32b03fea9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+              src="https://plus.unsplash.com/premium_photo-1661751889999-762ee67f68fa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Our team working on a garden design"
               className="rounded-lg shadow-xl w-full h-auto"
             />
