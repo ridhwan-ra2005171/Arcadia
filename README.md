@@ -27,5 +27,5 @@ Experience Arcadia firsthand:
 ### Clone the Repository  
 
 ```bash
-git clone https://github.com/yourusername/arcadia.git
+git clone https://github.com/ridhwan-ra2005171/arcadia.git
 cd arcadia
