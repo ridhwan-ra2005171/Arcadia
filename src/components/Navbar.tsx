@@ -43,7 +43,7 @@ const Navbar = () => {
 
           {/* Mobile Navigation Toggle */}
           <button
-            className="md:hidden text-gray-700"
+            className="md:hidden text-gray-700 mr-5"
             onClick={() => setIsOpen(!isOpen && !scrolled)}
           >
             {isOpen ? <X size={24} /> : <Menu size={24} />}
